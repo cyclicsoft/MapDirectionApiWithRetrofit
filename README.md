@@ -21,7 +21,7 @@ Google map direction api easy implementation
 ```java
          <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" />
+            android:value="YOUR_KEY_HERE" />
 ```
 
 
